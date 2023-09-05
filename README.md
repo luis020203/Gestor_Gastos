@@ -1,8 +1,24 @@
-# React + Vite
+<h1>Gestor de Gastos/Ingresos</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>
+El Gestor de Gastos/Ingresos es un proyecto practico usando Vite+React. 
+</p>
+<div>
+	[![372151802-1011548143596965-7069411490731106221-n.png](https://i.postimg.cc/rsGVtMcC/372151802-1011548143596965-7069411490731106221-n.png)](https://postimg.cc/rRmXB6DK)
+</div>
+<h2>
+Tecnologias usadas
+</h2>
+<p align=center>
+![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=Turquoise) 
 
-Currently, two official plugins are available:
+![Vite](https://img.shields.io/badge/Vite-%23000000.svg?style=for-the-badge&logo=vite&logoColor=Turquoise)
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>
+Uso
+</h2>
+- git clone https://github.com/luis020203/Gestor_Gastos.git 
+- npm install
+- npm run dev
+
