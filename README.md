@@ -23,6 +23,7 @@ Tecnologias usadas
 <h2>
 Uso
 </h2>
+
 - git clone https://github.com/luis020203/Gestor_Gastos.git 
 - npm install
 - npm run dev
