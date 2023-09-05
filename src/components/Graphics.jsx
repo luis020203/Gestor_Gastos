@@ -19,7 +19,7 @@ function Graphics(){
 
     if (totalIncome === 0 && totalExpense === 0){
         return(
-            <div className='bg-zinc-900 p-4 my-2'>
+            <div className='bg-zinc-800 p-4 my-2'>
                 <div className='h-full flex items-center justify-center w-full flex-col'>
                     <BsPieChartFill className='text-9x1'/>
                     <h1 className='font-mono my-2'>No data Found</h1>
